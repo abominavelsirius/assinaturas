@@ -3,11 +3,13 @@
 
 body {
     font-family: 'Changa One', cursive;
+    background: #141414;
 
 }
 
 header h1 {
     text-align: center;
+    color: #FCFFF5;
 }
 
 
@@ -15,6 +17,11 @@ li {
     display: inline-block;
     border: 1px solid black;
     background: rgb(206, 206, 206);
+    transition: 0.3s;
+}
+
+li:hover {
+    background-color: rgb(88, 107, 90);
 }
 
 
@@ -27,6 +34,9 @@ li h2 {
 li p {
     text-align: center;
 }
+
+
+
 
 
 .paramount {
