@@ -24,6 +24,11 @@ li:hover {
     background-color: rgb(88, 107, 90);
 }
 
+li a {
+    text-decoration: none;
+    color: black;
+}
+
 
 li h2 {
     text-align: center;
