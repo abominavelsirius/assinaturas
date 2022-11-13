@@ -1,0 +1,16 @@
+li {
+    display: inline-block;
+    border: 1px solid black;
+    background: rgb(202, 221, 230);
+}
+
+
+li h2 {
+    text-align: center;
+    font-weight: bold;
+    font-size: 12px;
+}
+
+li p {
+    text-align: center;
+}
