@@ -1,7 +1,20 @@
+@import url('https://fonts.googleapis.com/css2?family=Changa+One&display=swap');
+/* font-family: 'Changa One', cursive; */
+
+body {
+    font-family: 'Changa One', cursive;
+
+}
+
+header h1 {
+    text-align: center;
+}
+
+
 li {
     display: inline-block;
     border: 1px solid black;
-    background: rgb(202, 221, 230);
+    background: rgb(206, 206, 206);
 }
 
 
@@ -13,4 +26,9 @@ li h2 {
 
 li p {
     text-align: center;
+}
+
+
+.paramount {
+    width: 100PX;
 }
